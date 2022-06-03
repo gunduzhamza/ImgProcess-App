@@ -42,7 +42,7 @@
     >Gama Correction
     ![pic](./Readme-img/gamacorrection.png)
 
-- #### HW-2 <a name="#hw2"></a>
+- #### HW-2 <a name="hw2"></a>
 
     >Gray Scale
     ![pic](./Readme-img/grayscale.png)
@@ -50,7 +50,7 @@
     >Histogram Graph
     ![pic](./Readme-img/histgraph.png)
 
-- #### HW-3 <a name="#hw3"></a>
+- #### HW-3 <a name="hw3"></a>
 
     >Gray Scale
     ![pic](./Readme-img/derivative.png)
@@ -58,7 +58,7 @@
     >Histogram Graph
     ![pic](./Readme-img/lowpass.png)
 
-- #### HW-4 <a name="#hw4"></a>
+- #### HW-4 <a name="hw4"></a>
 
     >Gray Scale
     ![pic](./Readme-img/binary.png)
