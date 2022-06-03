@@ -52,18 +52,18 @@
 
 - #### HW-3 <a name="hw3"></a>
 
-    >Gray Scale
+    >Derivative
     ![pic](./Readme-img/derivative.png)
 
-    >Histogram Graph
+    >Low Pass Filter
     ![pic](./Readme-img/lowpass.png)
 
 - #### HW-4 <a name="hw4"></a>
 
-    >Gray Scale
+    >Otsu Thresholding
     ![pic](./Readme-img/binary.png)
 
-    >Histogram Graph
+    >Boundry Extraction
     ![pic](./Readme-img/boundry.png)
 
 
